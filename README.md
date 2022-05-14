@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+Created an application with the withdrawal of users from a fake REST API
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
